@@ -2,7 +2,7 @@
 //*****************************************************
 
 .about-bgImg-container {
-  border: 2px solid red;
+  //   border: 2px solid red;
   @include bgImage(50vh, $main-bgImage-path);
   display: flex;
   justify-content: space-between;
@@ -22,7 +22,7 @@
 
 .about {
   &__container {
-    border: 2px solid red;
+    // border: 2px solid red;
     width: 70vw;
     margin: 2rem auto;
   }
